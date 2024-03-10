@@ -1,0 +1,10 @@
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\bin\Debug\Test.exe.config
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\bin\Debug\Test.exe
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\bin\Debug\Test.pdb
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\bin\Debug\Concession.dll
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\bin\Debug\Concession.pdb
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\obj\Debug\Test.csproj.Up2Date
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\obj\Debug\Test.exe
+D:\Infinite\Serilization &De-Ser\Assignment_4\Assignment_4\Concession\Test\obj\Debug\Test.pdb
